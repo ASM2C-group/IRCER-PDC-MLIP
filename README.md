@@ -83,6 +83,12 @@ Current release:
 
 Future PDC databases and MLIPs developed by the group may be added to this repository.
 
+## Acknowledgments
+
+This work was supported by the French National Research Agency (ANR) through the [RECIFE](https://anr.fr/Projet-ANR-21-CE08-0036) ANR-DFG project (Grant No. ANR-21-CE08-0036-01).
+
+Computational resources were provided by GENCI (Grants No. AX0913426 and AX0910832) and by the Mésocentre de Calcul Intensif Aquitain (MCIA) of the Université de Bordeaux and the Université de Pau et des Pays de l’Adour.
+
 ## License
 
 This repository is distributed under the MIT License. See the [`LICENSE`](LICENSE) file for details.
