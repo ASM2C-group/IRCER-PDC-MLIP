@@ -52,8 +52,8 @@ If you use this database, potential, or associated input files, please cite:
 
 **Fabien Mortier, Sylvian Cadars, Olivier Masson, Mauro Boero, Guido Ori, Yun Wang, Samuel Bernard, and Assil Bouzid**,  
 *Modeling phase separation in polymer-derived silicon carbonitride ceramics through extended machine learning molecular dynamics*,  
-Journal:  
-DOI:  
+Journal:  ACS Nano (2026)
+DOI:  https://pubs.acs.org/doi/10.1021/acsnano.6c11958
 
 ## Authors and affiliations
 
@@ -69,7 +69,7 @@ ADYNMAT CNRS consortium, F-67034 Strasbourg, France.
 Université de Strasbourg, CNRS, Institut de Physique et Chimie des Matériaux de Strasbourg, UMR 7504, F-67034 Strasbourg, France.
 
 **Yun Wang**  
-Centre for Catalysis and Clean Energy, School of Environment and Science, Griffith University, Gold Coast, Australia.
+School of Environment and Science, Griffith University, Gold Coast, Australia.
 
 Corresponding author: Assil Bouzid  
 Email: assil.bouzid@cnrs.fr
@@ -85,7 +85,7 @@ Future PDC databases and MLIPs developed by the group may be added to this repos
 
 ## Acknowledgments
 
-This work was supported by the French National Research Agency (ANR) through the [RECIFE](https://anr.fr/Projet-ANR-21-CE08-0036) ANR-DFG project (Grant No. ANR-21-CE08-0036-01).
+This work was supported by the French National Research Agency (ANR) through the [RECIFE](https://anr.fr/Projet-ANR-21-CE08-0036) ANR-DFG project (Grant No. ANR-21-CE08-0036-01) and partially supported by the PIXIES ANR project (Grant Number ANR-22-CE08-0014).
 
 Computational resources were provided by GENCI (Grants No. AX0913426 and AX0910832) and by the Mésocentre de Calcul Intensif Aquitain (MCIA) of the Université de Bordeaux and the Université de Pau et des Pays de l’Adour.
 
